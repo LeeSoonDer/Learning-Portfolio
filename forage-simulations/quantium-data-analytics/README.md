@@ -16,13 +16,4 @@ This job simulation involved analyzing customer purchase data using Python to ge
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Customer Segmentation
-- Report Writing
-
-## 📄 Files in This Folder
-
-| File | Description |
-|------|-------------|
-| `final_report.pdf` | Final business analysis report |
-| `data_cleaning.py` | Python script for data cleaning and processing |
-| `visualizations.png` | Key charts visualizing customer behavior |
-| `transaction_sample.csv` | Sample of processed transaction data |
+- Data Visualization using PowerPoint
