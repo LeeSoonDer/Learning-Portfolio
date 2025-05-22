@@ -15,8 +15,8 @@ Welcome to my **learning portfolio**, where I showcase my certifications and job
 | **AWS Cloud Data Pipeline Builder** | AWS | Apr 2025 | ETL, AWS Glue, Data Streaming |
 | **AI Appreciate & Aware Badge** | Intel / MyDigital | Mar 2025 | AI Literacy |
 | **Elements of AI** | MinnaLearn | Mar 2025 | Intro to AI, Linear Models |
-| **Generative AI Productivity** | Microsoft & LinkedIn | Mar 2025 | Prompt Engineering, Productivity |
-| **Career Essentials in Data Analysis** | Microsoft & LinkedIn | Mar 2025 | Data Analysis, Power BI |
+| **Generative AI Productivity** | Microsoft & LinkedIn | Jan 2025 | Prompt Engineering, Productivity |
+| **Career Essentials in Data Analysis** | Microsoft & LinkedIn | Jan 2025 | Data Analysis, Power BI |
 | **Azure AI Essentials** | Microsoft | Mar 2025 | Machine Learning, Azure Tools |
 
 ---
