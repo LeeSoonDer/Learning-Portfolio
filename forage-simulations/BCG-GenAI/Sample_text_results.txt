@@ -1,0 +1,15 @@
+💬 Financial Chatbot | Ask about Microsoft, Tesla, or Apple (2022–2024)
+🔚 Type 'exit' to quit
+
+You:  How much is Tesla's revenue in 2023?
+> Tesla’s revenue in 2023 was $96,773 million.
+You:  What is the total revenue of Microsoft in 2024?
+> Microsoft’s revenue in 2024 was $245,122 million.
+You:  What are the total assets of Apple in 2022?
+> Apple’s assets in 2022 was $352,755 million.
+You:  liabilities of Microsoft 2022
+> Microsoft’s liabilities in 2022 was $198,298 million.
+You:  What is the cash flow of Tesla in 2024?
+> Tesla’s cash flow in 2024 was $14,923 million.
+You:  exit
+👋 Goodbye!s
